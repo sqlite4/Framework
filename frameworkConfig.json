@@ -1,4 +1,4 @@
 {
     "ENABLE_DISCORD_WEBHOOKS": false,
-    "DISCORD_WEBHOOK_LINK": "https://discord.com/api/webhooks/1193684766512386149/WOQ3e3TJjQyZi7OtB8bxIEgx3iy4AkQGhjAOX-9mrIWIbZFgotOZEu-8_vKmu0vxZSpv"
+    "DISCORD_WEBHOOK_LINK": "your_webhook_link_here"
   }
